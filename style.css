@@ -9,7 +9,7 @@
 
 body{
     font-size: 100%;
-    background: linear-gradient(45deg, #8baaaa 0%, #ae8b9c 100%) 
+    background: #2E3440;
 }
 
 .cabecalho{
@@ -73,7 +73,7 @@ body{
 }
 
 .botao{
-    background-color: #B2A3A3;
+    background-color: #88C0D0;
     color: white;
     width: 180px;
     height: 60px;
